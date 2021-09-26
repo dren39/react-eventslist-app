@@ -4,7 +4,7 @@ The Concert Ticket Application is a replication of the Viagogo ticket sales webs
 
 ## Functionality
 
-The application displays a list of events for a specific artist on page load. Users can click on individual event cards to see more details about the event. Users can also use a filter to filter events based on city locations.
+The application displays a list of events for a specific artist on page load. Users can click on individual event cards to see more details about the event. Users can also use a filter to filter events based on city locations
 
 ## Installation
 
